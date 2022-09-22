@@ -3,3 +3,4 @@
 .config/memos.json
 .config/yarn
 .config/nextjs-nodejs
+.config/tmux/plugins
