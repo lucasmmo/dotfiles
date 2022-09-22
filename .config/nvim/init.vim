@@ -1,6 +1,8 @@
 source ~/.config/nvim/plugins.vim
 source ~/.config/nvim/remaps.vim
 
+set cursorline
+set nowrap
 set relativenumber number
 set autoindent
 set smarttab
